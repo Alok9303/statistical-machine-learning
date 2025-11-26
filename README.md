@@ -23,6 +23,7 @@ This repository is mainly for:
 * NumPy, Pandas
 * Matplotlib / Seaborn
 * Scikit‑learn
+* Pickle, Joblib
 
 ## 🚀 Future Plans
 
