@@ -7,7 +7,8 @@ A simple collection of my practice notebooks and experiments while learning **st
 * Practice notebooks on statistical ML concepts
 * Model fitting experiments (regression, classification, etc.)
 * Small datasets used for learning
-* Notes and observations from each experiment
+* Save and Load the model using Pickle, Joblib
+
 
 ## 🎯 Purpose
 
