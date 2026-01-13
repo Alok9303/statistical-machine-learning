@@ -13,6 +13,7 @@ The repository covers the following areas of machine learning:
 - Unsupervised Learning
 - Ensemble Methods
 - Regularization Techniques
+- Principal Component Analysis (PCA)
 - Model Evaluation
 - Hyperparameter Tuning
 - Time Series Basics
@@ -36,7 +37,6 @@ All models are implemented using **scikit-learn** with supporting libraries for 
 
 ### Unsupervised Learning
 - K-Means Clustering  
-- Principal Component Analysis (PCA)
 
 ### Regularization
 - L1 (Lasso) and L2 (Ridge) Regularization  
@@ -48,6 +48,7 @@ All models are implemented using **scikit-learn** with supporting libraries for 
 
 ### Time Series
 - Basic Time Series Analysis and pattern exploration
+- Models(ARIMA, FB Prophet, etc.)
 
 ---
 
