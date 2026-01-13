@@ -1,42 +1,92 @@
 # Statistical Machine Learning
 
-A simple collection of my practice notebooks and experiments while learning **statistical machine learning**. This repository contains small datasets, exploratory data analysis, and implementations of different ML models.
-
-## 📚 What this repo includes
-
-* Practice notebooks on statistical ML concepts
-* Model fitting experiments (regression, classification, etc.)
-* Small datasets used for learning
-* Save and Load the model using Pickle, Joblib
-
-
-## 🎯 Purpose
-
-This repository is mainly for:
-
-* Learning and practicing statistical ML
-* Understanding how different ML models behave on small datasets
-* Building confidence with hands‑on experimentation
-
-## 🛠 Technologies Used
-
-* Python
-* NumPy, Pandas
-* Matplotlib / Seaborn
-* Scikit‑learn
-* Pickle, Joblib
-
-## 🚀 Future Plans
-
-* Add more ML models
-* Try evaluation techniques and metrics
-* Improve visualizations
-* Add more structured notes
-
-## 🤝 Contributions
-
-This is a personal learning repo, but suggestions are always welcome!
+This repository contains hands-on implementations of **statistical and classical machine learning algorithms** using Python.  
+It is created for learning, practicing, and understanding the core concepts behind machine learning models through simple and clear notebooks.
 
 ---
 
-Feel free to check out the notebooks and experiments to follow along my statistical ML learning journey.
+## Repository Overview
+
+The repository covers the following areas of machine learning:
+
+- Supervised Learning
+- Unsupervised Learning
+- Ensemble Methods
+- Regularization Techniques
+- Model Evaluation
+- Hyperparameter Tuning
+- Time Series Basics
+
+All models are implemented using **scikit-learn** with supporting libraries for data analysis and visualization.
+
+---
+
+## Folder Structure & Topics
+
+### Supervised Learning
+- Linear Regression  
+- Logistic Regression  
+- K-Nearest Neighbors (KNN)  
+- Naive Bayes  
+- Decision Tree  
+
+### Ensemble Learning
+- Random Forest  
+- Bagging  
+
+### Unsupervised Learning
+- K-Means Clustering  
+- Principal Component Analysis (PCA)
+
+### Regularization
+- L1 (Lasso) and L2 (Ridge) Regularization  
+
+### Model Evaluation & Optimization
+- Train-Test Split  
+- Cross-Validation  
+- Hyperparameter Tuning (Grid Search, Random Search)
+
+### Time Series
+- Basic Time Series Analysis and pattern exploration
+
+---
+
+## Technologies Used
+
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- Pickle  
+- Joblib  
+
+---
+
+## Purpose
+
+- Practice statistical machine learning concepts  
+- Understand model behavior and evaluation techniques  
+- Build a strong foundation for data science and ML interviews  
+- Maintain a personal reference for ML implementations
+
+---
+
+## Future Work
+
+- Add more real-world datasets  
+- Include advanced evaluation metrics  
+- Improve visualizations  
+- Add mathematical explanations for algorithms  
+
+---
+
+## Contributions
+
+This is a personal learning repository.  
+Suggestions and improvements are welcome.
+
+---
+
+⭐ Feel free to star the repository if you find it useful!
